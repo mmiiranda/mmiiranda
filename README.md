@@ -1,7 +1,7 @@
 ## Welcome to My GitHub
 
 <div align="center">
-   <img src="https://i.imgur.com/AzYGS9D.png" height="100em"/>
+   <img src="polar.jpg" height="100em"/>
 </div>
 
 ### :bust_in_silhouette: About Me
