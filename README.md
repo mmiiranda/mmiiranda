@@ -5,11 +5,11 @@
 </div>
 
 ### :bust_in_silhouette: About Me
-<p>My name is Maurício Miranda, and I am in the third semester of Computer Science at Federal University of Ceará. Currently, I'm studying to become a Full Stack programmer. Additionally, I'm interested in Competitive Programming, Software Engineering and Web Programming.</p>
+<p>My name is Maurício Miranda, and I'm study Computer Science at Federal University of Ceará. Currently, I'm studying to become a Full Stack programmer. Additionally, I'm interested in Competitive Programming, Software Engineering and Web Programming.</p>
 
 ### &#x1f4c8; Some Statistics
 <div align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmiiranda&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmiiranda&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=html,css&langs_count=5" />
 </div>
 
 ### :wrench: My Teecnologies and Tools
