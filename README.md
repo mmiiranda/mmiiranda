@@ -9,7 +9,7 @@
 
 ### &#x1f4c8; Some Statistics
 <div align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmiiranda&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=html,css&langs_count=5" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmiiranda&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=html,css,jupyter%20notebook&langs_count=5" />
 </div>
 
 ### :wrench: My Teecnologies and Tools
